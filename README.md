@@ -1,4 +1,4 @@
-# inverse-problem-chlorine-diff\\
+# inverse-problem-chlorine-diff
 
 This repo is an assiment for the course Inverse Problems in Science and Engineering .
 
