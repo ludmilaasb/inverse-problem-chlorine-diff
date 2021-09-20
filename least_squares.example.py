@@ -12,7 +12,7 @@ time = 1
 num_ex = 1
 
 if len(sys.argv)<2:
-    print("Data not specified. Using data2 as example for 3 months deposition for the 1st term of gaussian error series")
+    print("Data not specified. Using data2 as example for 3 months deposition for the 1st term of gaussian error series. In case of doubt, just use help (-h, --help)")
 else:
     dt =sys.argv[1]
     assert dt in ['data1','data2','data3','data4'], "data must by like: 'data1','data2','data3','data4'"
