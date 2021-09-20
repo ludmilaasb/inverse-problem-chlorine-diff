@@ -1,5 +1,6 @@
 # inverse-problem-chlorine-diff
 
+This is a simple repo for solving a assingment.
 
 ## Project: Estimation of the chloride diffusivity in concrete sample
 
