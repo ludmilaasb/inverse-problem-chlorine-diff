@@ -56,3 +56,15 @@ plt.xlabel('x')
 plt.ylabel('y')
 # plt.show()
 plt.savefig("plots/{}_erf-exp_{}_least_squares.pdf".format(dt,num_ex))
+
+
+
+
+
+
+
+
+
+
+
+print("If u copy this, u r dumb") 
