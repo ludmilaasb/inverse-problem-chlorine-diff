@@ -11,7 +11,7 @@ For now, I've implemented the Least Square approach to estimate the diffusion co
 
 The didact version is on the notebook `least_square_ex_notebook.ipynb` A succinct version can be runned directly on the terminal:
 
-`python least_squares.example.py <data_name> <months> <expassion_terms>`
+`python least_squares.example.py <data_name> <months> <expanssion_terms>`
 
 For example, if you want to calculate the regression for data1, 3 months and 1st term you can input on the terminal:
 
